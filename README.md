@@ -1,0 +1,18 @@
+# job-board-app
+
+Job board application app that allows users to 1. Post Jobs 2. Apply for jobs 3. Organize interviews and reccomend applicants for hiring.
+
+When starting: 
+
+Data for all database objects are saved as either Test<ObjectTypes>.bin files or <ObjectTypes>.bin.
+
+This allows for one set of .bin files to be reset state files, and another set for testing.
+
+When asked, "Do you want to import default test setup?":
+- Yes will get data from the Test<ObjectTypes>.bin files,
+- No will import data from the <ObjectTypes>.bin files.
+
+When asked, "Do you want to override default test setup?":
+- Yes will override data in the Test<ObjectTypes>.bin files, or new Test<ObjectTypes>.bin files will be created.
+- No will override data from the <ObjecTypes>.bin files, or new <ObjectTypes>.bin files will be created.
+
