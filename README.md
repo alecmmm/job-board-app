@@ -1,6 +1,6 @@
 # job-board-app
 
-Job board application app that allows users to 1. Post Jobs 2. Apply for jobs 3. Organize interviews and reccomend applicants for hiring.
+Job board application app that allows users to post jobs, apply for jobs and recommend applicants for jobs.
 
 When starting: 
 
