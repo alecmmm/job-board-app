@@ -34,12 +34,12 @@ It's suggested that you first try logging in with Lily's username and papssword,
     * Clown
     * Acrobat
  * Firm 2: CIA
-  * HR User: 
-    * username: john
-    * password: pass
-  * Jobs:
-    * Hacker
-    * Spy
+   * HR User: 
+     * username: john
+     * password: pass
+   * Jobs:
+     * Hacker
+     * Spy
   * Applicant:
     * username: Lily
       password: pass
