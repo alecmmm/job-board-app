@@ -42,7 +42,7 @@ It's suggested that you first try logging in with Lily's username and papssword,
      * Spy
   * Applicant:
     * username: Lily
-      password: pass
+    * password: pass
   * Interviewer:
     * username: holden
     * Firm: CIA
