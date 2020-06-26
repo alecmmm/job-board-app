@@ -10,7 +10,7 @@ In order to facilitate testing, the current date is prompted upon each login. Jo
 
 # Program Images
 
-![login image](https://github.com/alecmmm/job-board-app/blob/master/images/application.PNG "Login")
+![login image](https://github.com/alecmmm/job-board-app/blob/master/images/login.PNG "Login")
 
 ![open jobs image](https://github.com/alecmmm/job-board-app/blob/master/images/jobs.PNG "Open jobs")
 
