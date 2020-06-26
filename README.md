@@ -10,7 +10,7 @@ In order to facilitate testing, the current date is prompted upon each login. Jo
 
 # Program Images
 
-insert image
+![login image](https://github.com/alecmmm/job-board-app/blob/master/images/application.PNG "Login image")
 
 insert image
 
