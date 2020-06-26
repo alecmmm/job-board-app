@@ -26,7 +26,7 @@ insert image
 
 See description of default program state to try out the program:
 
-It's suggested that you first try logging in with Lily's username and papssword, as an Applicant.
+It's suggested that you first try logging in with lily's username and papssword, as an Applicant.
 
 * Firm 1: Firm ABC
   * HR User:
@@ -43,7 +43,7 @@ It's suggested that you first try logging in with Lily's username and papssword,
      * Hacker
      * Spy
   * Applicant:
-    * username: Lily
+    * username: lily
     * password: pass
   * Interviewer:
     * username: holden
