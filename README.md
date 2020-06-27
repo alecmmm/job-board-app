@@ -22,8 +22,6 @@ Run from your favourite IDE.
 
 Upon opening, you will be promted to import the default test setup. It is suggested to do this so that test users do not have to be set up. After running, you may override the default test setup, in order to save the program state.
 
-insert image
-
 See description of default program state to try out the program:
 
 It's suggested that you first try logging in with lily's username and papssword, as an Applicant.
