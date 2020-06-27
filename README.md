@@ -2,7 +2,7 @@
 
 ## Description:
 
-Final group assignment for [Software Design](https://fas.calendar.utoronto.ca/course/csc207h1)
+Final group assignment for [Software Design](https://fas.calendar.utoronto.ca/course/csc207h1).
 
 Job board app that allows users to post jobs, apply for jobs and recommend applicants for jobs. Applicants can upload cover letters and CVs in text format. All program states are saved through serialization. All HR users are associated with a firm. HR users may create jobs. Applicant users may then apply to jobs. Applicants are required to go through a customized sequence of interviews (e.g. group, phone and in person). Interviewer users may then reccomend or not reccomend applicants. The system sends Applicants update messages on their jobs.
 
